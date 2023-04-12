@@ -1,0 +1,6 @@
+#ñero {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  filter: grayscale(100p%) drop-shadown(10 px 10 px red);
+}
